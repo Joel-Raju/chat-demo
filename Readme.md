@@ -27,4 +27,4 @@ yarn install
 yarn start
 ```
 
-The clinet will be running at [http://localhost:3000/](http://localhost:3000/).
+The client will be running at [http://localhost:3000/](http://localhost:3000/).
